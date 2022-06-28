@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5374a150-5ffe-4aea-8c6b-b8142852d682" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bại5.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ht.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tessttt1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ttt.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AvQj6ezUm9clAoP1BTu9LK4scM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="lovef.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled/lovef.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.lovef.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5374a150-5ffe-4aea-8c6b-b8142852d682" name="Changes" comment="" />
+      <created>1655887713941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655887713941</updated>
+      <workItem from="1655887715638" duration="485000" />
+      <workItem from="1655888220581" duration="1278000" />
+      <workItem from="1655889528416" duration="619000" />
+      <workItem from="1655953460000" duration="4619000" />
+      <workItem from="1655968311403" duration="503000" />
+      <workItem from="1655968832324" duration="204000" />
+      <workItem from="1655970052116" duration="2448000" />
+      <workItem from="1655973007982" duration="160000" />
+      <workItem from="1656000686005" duration="773000" />
+      <workItem from="1656032689347" duration="10463000" />
+      <workItem from="1656053722023" duration="6733000" />
+      <workItem from="1656060667707" duration="2097000" />
+      <workItem from="1656147327701" duration="10081000" />
+      <workItem from="1656229480141" duration="10606000" />
+      <workItem from="1656257103696" duration="83000" />
+      <workItem from="1656292169571" duration="6587000" />
+      <workItem from="1656320204939" duration="839000" />
+      <workItem from="1656321908134" duration="1345000" />
+      <workItem from="1656343562043" duration="236000" />
+      <workItem from="1656344467449" duration="2078000" />
+      <workItem from="1656346769775" duration="1454000" />
+      <workItem from="1656383319924" duration="16295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
