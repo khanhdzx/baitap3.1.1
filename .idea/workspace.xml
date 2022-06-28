@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5374a150-5ffe-4aea-8c6b-b8142852d682" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai5.3-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bại5.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ht.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tessttt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai tap 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai tap ve nha.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai2.1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ttt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai5.3-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bại5.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ht.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tessttt1.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,21 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="lovef.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled/lovef.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -93,7 +92,8 @@
       <workItem from="1656343562043" duration="236000" />
       <workItem from="1656344467449" duration="2078000" />
       <workItem from="1656346769775" duration="1454000" />
-      <workItem from="1656383319924" duration="18784000" />
+      <workItem from="1656383319924" duration="21490000" />
+      <workItem from="1656426052807" duration="2706000" />
     </task>
     <servers />
   </component>
