@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1 id="ketqua"></h1>
+<table border="1" style="width: 500px;right: 100px">
+    <tr>
+        <td>Amount</td>
+        <td>From Currency</td>
+        <td> To Currency</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            <input type="text" id="Tien">
+        </td>
+        <td>
+            <select id="nhap">
+                <option value="VND">VietNam</option>
+                <option value="USD">USD</option>
+            </select>
+        </td>
+        <td>
+            <select id="xuat">
+                <option value="USD">USD</option>
+                <option value="VND">VietNam</option>
+            </select>
+        </td>
+        <td>
+            <input type="submit" value="Convert" onclick="ChuyenDoiTienTe()">
+        </td>
+    </tr>
+
+</table>
+<script>
+    function ChuyenDoiTienTe (){
+        let tien = +document.getElementById('Tien').value;
+        let xuat = document.getElementById('xuat').value;
+        let nhap = document.getElementById('nhap').value;
+        if (nhap == xuat){
+            document.getElementById("ketqua").innerText= tien
+        }
+        else {
+            if (nhap == 'VND'){
+                document.getElementById("ketqua").innerText=tien/23000
+            }
+            else {
+                document.getElementById("ketqua").innerText=tien*23000
+            }
+        }
+    }
+</script>
+</body>
+</html>
+</body>
+</html>
